@@ -1,0 +1,21 @@
+# Output files
+*.o
+*.o_binary
+*.d
+*.cmd
+*.to_be_processed
+
+# Output directories
+_out/
+conftest/
+
+# Module files
+*.ko
+*.mod.c
+*.mod
+Module.symvers
+modules.order
+
+# Miscellaneous
+.cache.mk
+nv_compiler.h
